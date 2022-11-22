@@ -1,0 +1,69 @@
+
+
+.logo{
+    position: absolute;
+    left: 700px;
+    top: 100px;
+    z-index: 1; 
+}
+.logo img{
+    height: 130px;
+    width: 130px;
+
+}
+
+.whats{ 
+    margin-top: 250px;
+  margin-left: 620px;
+  display: flex;
+  position: absolute;
+  z-index: 1; 
+  right: auto;
+}
+
+.whats img:hover{
+    position:absolute;
+    transition:0.3s;
+     height: 200px;
+
+}
+
+
+.insta{
+    display: flex;
+    position: absolute;
+    margin-top: 370px;
+    margin-left: 620px;
+    z-index: 1;  
+}
+.insta img:hover{
+    position:absolute;
+    transition:0.3s;
+     height: 200px;
+
+}
+
+
+
+.boker{
+    display: flex;
+    position: absolute;
+    margin-top: 500px;
+    margin-left: 620px;
+    z-index: 1;  
+}
+
+.boker img:hover{
+    position:absolute;
+    transition:0.3s;
+     height: 200px;
+
+}
+
+
+.letrasfondo{
+    margin-top: 200px;
+    position: absolute;
+    margin-left: 620px;
+    
+}
